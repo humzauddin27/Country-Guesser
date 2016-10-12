@@ -1,2 +1,3 @@
 # Country-Guesser
 A Java application which can guess the country you are thinking of with just a few questions! Following the guidelines and map provided, CountryGuesser will narrow down which country you are thinking of. 
+Currently planning on updating the text phrases which show up to make a little more sense (sometimes they don't make full sense, try it out and you'll find an example of this eventually). Also, maybe an interactive map or some sort of user interaction aside from typing Y/N (even as simple as them clicking yes or no and the map showing what the question is talking about) would be cool.
